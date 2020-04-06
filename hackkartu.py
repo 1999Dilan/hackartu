@@ -7,10 +7,10 @@ p = '\x1b[1;37m'
 i = '\x1b[1;32m'
 banner = '''===================================
             >> author>> 1999dilan
-            >> team>>> loLi FBI Xploit
+            >> team>>>  solo leveling gw
             >> blog>>> lgi tydak ada bro
-            >> email>> yoluwet@gmail.com
-            >> awas lu hack email gw tabok lu!
+            >> email>> dilan1999@gmail.com
+            >> awas lu hack email gw pantek lu!
             >> no  >>> 089691551748
             ==================================='''.format(m,p,m,p,m,p,m,p,m,p,m,p,m,p,m,p,m,p)
 
